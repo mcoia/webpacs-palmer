@@ -83,7 +83,7 @@ ICON_BUT_ANOTHER=<span class="button"><img src="/screens/ico_magnifyingglass.gif
 ICON_BUT_NEWSRCH=<span class="button"><img src="/screens/ico_startover.gif" alt=""><span class="buttonText">Start Over</span></span>
 ICON_BUT_WORDSRCH=<span class="button"><img src="/screens/ico_magnifyingglass.gif" alt=""><span class="buttonText">Search as Words</span></span>
 #DROP_DOWN=Xatdc
-DROP_DOWN=PHQJLRSIT
+DROP_DOWN=Xtsadry
 FRAMEURL=0
 IBROWSE_MAX=10000
 KEYWORD_COLOR=Y|all|red
