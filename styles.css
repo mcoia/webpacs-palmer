@@ -144,6 +144,8 @@ a:hover  { color: #7C14B8; }
 
 .availLimMessage { font-style:normal; }
 
+#bannerLogo { display:block; margin:auto; }
+
 .bibClear { clear:both; }
 
 .bibDetail {  }
@@ -665,6 +667,8 @@ div .bibResourceSidebar { display:none; }
 
 .letterTabs li { list-style:none; padding:0; display:inline; }
 
+#mainMenu #bannerLogo { display:none; }
+
 .mainMenuContent { margin-top:45px; text-align:left; }
 
 .mainMenuContentLeft { float:left; margin-right:15px; margin-left:30px; }
@@ -674,6 +678,8 @@ div .bibResourceSidebar { display:none; }
 .mainMenuContentRight ul { list-style:none; padding:0px; }
 
 .mainMenuContentRight li { margin:0px 0px 15px 0px; }
+
+.mainSearch #search { margin: 20px auto; padding: 20px; border: 1px solid lightgray; }
 
 .mainSearch { text-align:center; }
 
@@ -707,7 +713,7 @@ div .bibResourceSidebar { display:none; }
 
 .navigationRow select { font-size:.885em; }
 
-.pageContent { clear:both; margin-top:90px; }
+.pageContent { clear:both; margin-top:90px; margin-bottom:90px; }
 
 .pageContent > br { display:none; }
 

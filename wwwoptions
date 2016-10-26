@@ -393,6 +393,8 @@ ILL_HOME=/screens/ill.html
 
 # INN-Reach
 IR_PLACEMENT=1
+ICON_INNREACH_ENCORE=<span class="button"><img src="/screens/ico_mobius.png" alt=""><span class="buttonText">Search MOBIUS</span></span></span>
+INNREACH_ENCORE=http://searchmobius.org/iii/encore/search/C__S%s__Orightresult__U?lang=eng&suite=cobalt
 
 # Media Management
 ICON_BUT_RET2CRS=<span class="button"><img src="/screens/ico_back.gif" alt=""><span class="buttonText">Return to Course</span></span>
