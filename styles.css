@@ -1221,7 +1221,7 @@ tr.highlight { background:#FFFFE4; }
 
 .footerContentContainer {background:#f7f7f7; border-top:8px solid #808080; }
 .footerContent {border-top:4px solid #d7d7d7; padding:.5em 1em;}
-.footerColumn1 {float:right; margin-right:15px; min-height:20.4em; overflow:hidden; white-space:nowrap; width:175px;}
+.footerColumn1 {float:right; margin-right:15px; min-height:20.4em; overflow:hidden;}
 .footerColumn2 {float:right; margin-right:2em; min-height:20.4em; width:175px;}
 .footerColumn3 {float:right; margin-right:50px; min-height:20.4em; width:175px;}
 .footerColumn4 {float:left; max-width:250px; min-height:19.7em;}
